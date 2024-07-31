@@ -9,9 +9,9 @@ export default function Home() {
   
   <div className='bg-blue py-5 md:py-14'>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div className="content">
-          <div className="mt-4">
-            <img src={avatar} alt="Avatar" className="mx-auto max-w-xs md:max-w-sm lg:max-w-md h-auto" />
+        <div className="content ">
+          <div className="mt-4 ">
+            <img src={avatar} alt="Avatar" className="mx-auto max-w-xs md:max-w-sm lg:max-w-md max-h-50" />
           </div>
 
           <h1 className='font-black text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl mt-6 mb-4'>HOME COMPONENT</h1>
