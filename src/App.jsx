@@ -7,7 +7,7 @@ import Layout from './Components/Layout/Layout'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Contact from './Components/Contact/Contact'
 import Notfound from './Components/Notfound/Notfound'
-import { SpeedInsights } from "@vercel/speed-insights/next"
+
 
 
 
@@ -28,6 +28,6 @@ const routers = createBrowserRouter([
  
 
 export default function App() {
-  return <><RouterProvider router={routers}></RouterProvider><SpeedInsights /></>
+  return <RouterProvider router={routers}></RouterProvider>
 }
 
