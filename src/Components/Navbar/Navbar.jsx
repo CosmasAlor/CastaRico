@@ -1,35 +1,5 @@
-// // eslint-disable-next-line no-unused-vars
-// import React from 'react'
-// import { Link } from 'react-router-dom'
-// import { NavLink } from 'react-router-dom';
 
-// export default function Navbar() {
-//   return (
-//     <nav className='bg-slate-950 py-10 sticky top-0 z-50'>
-//         <div className="container">
-//             <div className='flex justify-between'>
-
-//                 <div className="">
-//                     <span className='text-3xl'><Link to="/" className='text-3xl text-white font-bold'>
-//               START FRAMEWORK
-//             </Link> </span>
-//                 </div>
-//                 <div className="">
-//                     <ul className="flex justify-around space-x-4 text-2xl items-center px-3">
-                        // <li><NavLink to="/about">ABOUT</NavLink></li>
-                        // <li><NavLink to="/portfolio" >PORTFOLIO</NavLink></li>
-                        // <li><NavLink to="/contact">CONTACT</NavLink></li>
-//                     </ul>
-//                 </div>
-//             </div>
-//         </div>
-//     </nav>
-//   )
-// }
-
-
-
-
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 

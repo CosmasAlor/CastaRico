@@ -41,7 +41,7 @@ export default function Footer() {
 
     <div className="bg-slate-950">
         <div className="copy text-center p-5">
-          <p className='text=center text-gray-500'>Copyright © Costarico 2024</p>
+          <p className='text=center text-gray-500'>Copyright © Costarico 2024 ❤️ Cosmas Alor</p>
         </div>
     </div>
   </>

@@ -7,7 +7,7 @@ import avatar from '../../assets/avataaars.svg';
 export default function Home() {
   return <>
   
-  <div className='bg-blue py-8 md:py-16'>
+  <div className='bg-blue py-5 md:py-14'>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="content">
           <div className="mt-4">
