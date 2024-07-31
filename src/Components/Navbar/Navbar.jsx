@@ -14,7 +14,7 @@ export default function Navbar() {
         {/* Logo / Branding */}
         <div className="text-3xl">
           <Link to="/" className='text-white font-bold'>
-            START FRAMEWORK
+          Costa Rico 
           </Link>
         </div>
 
